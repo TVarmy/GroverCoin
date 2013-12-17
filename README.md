@@ -1,7 +1,6 @@
-FooCoin (FOO)
+GroverCoin (GOATSE)
 ===========
 
-[![Build Status](https://travis-ci.org/RazorLove/foocoin.png?branch=master)](https://travis-ci.org/RazorLove/foocoin)
+Shameless copy of Barcoin with no intention of helping anybody buy anything.
 
-
-Scrypt Hashcash PoW Template
+Hope you like scrypt, you piece of crap.
